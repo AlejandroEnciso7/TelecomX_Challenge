@@ -7,7 +7,7 @@ Data analysis of the churn in clients for telecommunications from Latin America 
 
 ## 📂 content
 
-| Ruta/archivo | Descripción |
+| File | Description |
 |--------------|-------------|
 | `TelecomX_LATAM.ipynb` | Main notebook with the Data, the set up, the cleaning process, exploratory analysis and predictive model training. |
 | `Informe.md` | Findings and possible solutions presented to the client. |
